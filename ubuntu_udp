@@ -6,7 +6,7 @@ PASS='@@@@F1r3n3t';
 DBNAME='crypticv_orangemaster';
 PORT_TCP='5666';
 PORT_UDP='5666';
-SUB_DOMAIN=cdrp.orangemaster.store
+SUB_DOMAIN=jfsq.orangemaster.store
 MYIP=$(wget -qO- icanhazip.com);
 server_ip=$(curl -s https://api.ipify.org)
 timedatectl set-timezone Asia/Riyadh
